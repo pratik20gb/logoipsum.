@@ -4,7 +4,7 @@ A modern, responsive educational platform designed to inspire, engage, and empow
 
 ## 🚀 Live Demo
 
-[Visit Website](https://your-live-demo-link.com)
+[Visit Website](https://logoipsum-gules.vercel.app/)
 
 ---
 
