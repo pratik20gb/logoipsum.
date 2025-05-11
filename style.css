@@ -257,30 +257,28 @@ button {
   background-color: #d0d0d0;
   cursor: pointer;
 }
-.video__button--primary{
+.video__button--primary {
   color: #5bb471;
-
 }
-.video__button--primary:hover{
+.video__button--primary:hover {
   background-color: #5bb471;
   color: white;
 }
 
-.video__button--secondary{
+.video__button--secondary {
   color: #5bb471;
-
 }
-.video__button--secondary:hover{
+.video__button--secondary:hover {
   background-color: #5bb471;
   color: white;
 }
-.video__container{
+.video__container {
   background-image: url("images/video.jpg");
   background-size: cover;
   background-position: center;
   height: 700px;
   background-blend-mode: overlay;
-  background-color: rgba(0, 0, 0,0.05);
+  background-color: rgba(0, 0, 0, 0.05);
 }
 .programs__card {
   background: none;
@@ -329,20 +327,18 @@ button {
 }
 
 /* navbar */
-.nav{
+.nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 10px 100px;
-  
 }
-.nav__links{
+.nav__links {
   display: flex;
   align-items: center;
   gap: 30px;
-  
 }
-.nav__link{
+.nav__link {
   text-decoration: none;
   color: #333333;
 }
@@ -416,17 +412,16 @@ button {
   padding-top: 20px;
   text-align: center;
   color: #5d5d5d;
-  
-  
 
-.footer__button {
-  background-color: #34c759;
-  color: #ffffff;
-  padding: 10px 20px;
-  border: none;
-  cursor: pointer;
-}
+  .footer__button {
+    background-color: #34c759;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
 
-.footer__button:hover {
-  background-color: #2db14e;
+  .footer__button:hover {
+    background-color: #2db14e;
+  }
 }
